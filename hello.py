@@ -1,3 +1,3 @@
  python
 # hello.py
-print("Hello, World!")
+print("hello.py")
